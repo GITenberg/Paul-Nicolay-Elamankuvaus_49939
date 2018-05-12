@@ -1,4 +1,5 @@
 _repo: Paul-Nicolay-Elamankuvaus_49939
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Krohn, Aune
@@ -6,12 +7,17 @@ contributor:
     deathdate: 1967
     gutenberg_agent_id: '38777'
     url: http://www.gutenberg.org/2009/agents/38777
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Langenskjöld, Greta
     gutenberg_agent_id: '45624'
     url: http://www.gutenberg.org/2009/agents/45624
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49939#Paul-Nicolay-Elamankuvaus
 gutenberg_issued: '2015-09-11'
 gutenberg_type: Text
 identifiers:
